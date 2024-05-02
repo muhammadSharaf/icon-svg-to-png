@@ -1,0 +1,24 @@
+{
+  "name": "icon-svg-to-png",
+  "version": "1.0.0",
+  "description": "Convert SVG icons to multiple PNG sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "icon-svg-to-png": "./cli.js"
+  },
+  "keywords": [
+    "svg",
+    "png",
+    "converter",
+    "image",
+    "resize"
+  ],
+  "author": "Muhammad Sharaf",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.3"
+  }
+}
