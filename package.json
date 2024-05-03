@@ -1,6 +1,6 @@
 {
   "name": "icon-svg-to-png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert SVG icons to multiple PNG sizes",
   "main": "index.js",
   "scripts": {
