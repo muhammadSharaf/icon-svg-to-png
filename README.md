@@ -9,10 +9,11 @@ npm install icon-svg-to-png
 ```
 
 ## Input
-A directory containing a list of svg icons.
+* A directory containing a list of svg icons.
+* Desired output sizes (optional).
 
 ## Output
-A directory containing a directory for each icon, each has multiple png icons generated based on required icon sizes.
+* A directory containing a directory for each icon, each has multiple png icons generated based on required icon sizes.
 
 ## Usage
 
