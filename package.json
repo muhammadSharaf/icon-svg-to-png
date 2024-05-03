@@ -18,7 +18,9 @@
     "png",
     "converter",
     "image",
-    "resize"
+    "resize",
+    "react",
+    "react native"
   ],
   "author": "Muhammad Sharaf",
   "license": "ISC",

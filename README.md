@@ -1,6 +1,7 @@
 # SVG to PNG Icon Converter
 
 This package converts SVG icons to multiple PNG icons with required sizes.
+(Useful for React-Native applications)
 
 ## Installation
 
