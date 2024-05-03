@@ -9,6 +9,10 @@
   "bin": {
     "icon-svg-to-png": "./cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadSharaf/icon-svg-to-png"
+  },
   "keywords": [
     "svg",
     "png",
